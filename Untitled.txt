@@ -1,9 +1,6 @@
 streamlit
 pandas
-requests
-pandas
 numpy
-streamlit
 requests
 time
 streamlit_extras
